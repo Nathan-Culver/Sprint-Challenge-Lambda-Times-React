@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "prop-types": "^15.7.2",
+    "react-scripts": "^2.1.8"
+  }
+}
